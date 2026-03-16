@@ -1,7 +1,7 @@
 # personal_intro.py
 
 #Collect user information
-name = input("What is your name? :")
+name = input("1What is your name? :")
 age = input("What old are you? :")
 hobby = input("What is favorite hobby? :")
 
